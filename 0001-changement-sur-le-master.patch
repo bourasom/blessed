@@ -1,0 +1,22 @@
+From c70e5b773b4c7a8b7d6f2f09f73756c5a7dc251f Mon Sep 17 00:00:00 2001
+From: Omar BOURAS <obouras@exoplatform.com>
+Date: Sat, 24 Mar 2012 23:34:39 +0100
+Subject: [PATCH 1/2] changement sur le master
+
+---
+ introduction.txt |    3 +++
+ 1 files changed, 3 insertions(+), 0 deletions(-)
+ create mode 100644 introduction.txt
+
+diff --git a/introduction.txt b/introduction.txt
+new file mode 100644
+index 0000000..9e29056
+--- /dev/null
++++ b/introduction.txt
+@@ -0,0 +1,3 @@
++Commencer par introduire du code
++Changement dans le master
++
+-- 
+1.7.5.4
+
